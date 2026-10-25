@@ -1,0 +1,3 @@
+-- BharatKart E-commerce Data Analysis
+-- SQL data cleaning queries
+-- MySQL
